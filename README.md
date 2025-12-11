@@ -25,8 +25,8 @@ Dado que el contenido principal (videos, documentos pesados o la carpeta complet
 
 | Contenido | Tipo | Acceso |
 | :--- | :--- | :--- |
-| **Carpeta de Evidencias (Drive)** | Carpeta Padre | [**ACCEDER A LA CARPETA DE DRIVE**](**https://drive.google.com/drive/folders/1ZEITj28fKu3TJo49PuyqNo2Cjv2o4Azd?usp=sharing**) |
-| **Build WebGL (Opcional)** | Juego/Demo en vivo | [Link a la GitHub Page de tu juego](**https://tacodetripa.github.io/maze-runner-webgl/**) |
+| **Carpeta de Evidencias (Drive)** | Carpeta Padre | [[**ACCEDER A LA CARPETA DE DRIVE**]](https://drive.google.com/drive/folders/1ZEITj28fKu3TJo49PuyqNo2Cjv2o4Azd?usp=sharing) |
+| **Build WebGL (Opcional)** | Juego/Demo en vivo | [[Link a la GitHub Page de tu juego]](https://tacodetripa.github.io/maze-runner-webgl/) |
 
 
 ---
